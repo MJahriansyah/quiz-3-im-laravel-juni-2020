@@ -11,7 +11,7 @@
                     <h5 class="card-title">Card title</h5>
                     <a href=""><small><i class="far fa-heart"></i> Nada</small></a>                    
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Detail</a>
+                    <a href="/artikel/detail" class="btn btn-primary">Detail</a>
                 </div>
             </div>
             </div>
@@ -22,7 +22,7 @@
                     <h5 class="card-title">Card title</h5>
                     <a href=""><small><i class="far fa-heart"></i> Rina</small></a>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Detail</a>
+                    <a href="/artikel/detail" class="btn btn-primary">Detail</a>
                 </div>
             </div>
             </div>
@@ -34,7 +34,7 @@
                                         <a href=""><small><i class="far fa-heart"></i> Budi</small></a>
 
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Detail</a>
+                    <a href="/artikel/detail" class="btn btn-primary">Detail</a>
                 </div>
             </div>
             </div>
@@ -46,7 +46,7 @@
                                         <a href=""><small><i class="far fa-heart"></i> Ria</small></a>
 
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Detail</a>
+                    <a href="/artikel/detail" class="btn btn-primary">Detail</a>
                 </div>
             </div>
             </div>
@@ -57,7 +57,7 @@
                     <h5 class="card-title">Card title</h5>
                     <a href=""><small><i class="far fa-heart"></i> Joko</small></a>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Detail</a>
+                    <a href="/artikel/detail" class="btn btn-primary">Detail</a>
                 </div>
             </div>
             </div>
@@ -69,7 +69,7 @@
                                         <a href=""><small><i class="far fa-heart"></i> Bambang</small></a>
 
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Detail</a>
+                    <a href="/artikel/detail" class="btn btn-primary">Detail</a>
                 </div>
             </div>
             </div>

@@ -28,7 +28,7 @@
       <td>the-bird</td>
       <td>10 jan 2020</td>
       <td><div class="btn-group" role="group" aria-label="Basic example">
-          <button type="button" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></button>
+          <a href="/artikel/detail" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></a>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-edit"></i></button>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-trash"></i></button>
         </div>
@@ -43,7 +43,7 @@
       <td>the-bird</td>
       <td>10 jan 2020</td>
        <td><div class="btn-group" role="group" aria-label="Basic example">
-          <button type="button" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></button>
+          <a href="/artikel/detail" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></a>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-edit"></i></button>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-trash"></i></button>
         </div>
@@ -58,7 +58,7 @@
       <td>the-bird</td>
       <td>10 jan 2020</td>
        <td><div class="btn-group" role="group" aria-label="Basic example">
-          <button type="button" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></button>
+          <a href="/artikel/detail" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></a>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-edit"></i></button>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-trash"></i></button>
         </div>
@@ -73,7 +73,7 @@
       <td>the-bird</td>
       <td>10 jan 2020</td>
        <td><div class="btn-group" role="group" aria-label="Basic example">
-          <button type="button" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></button>
+          <a href="/artikel/detail" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></a>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-edit"></i></button>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-trash"></i></button>
         </div>
@@ -88,7 +88,7 @@
       <td>the-bird</td>
       <td>10 jan 2020</td>
        <td><div class="btn-group" role="group" aria-label="Basic example">
-          <button type="button" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></button>
+          <a href="/artikel/detail" class="btn btn-outline-secondary"><i class="fas fa-eye"></i></a>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-edit"></i></button>
           <button type="button" class="btn btn-outline-secondary"><i class="fas fa-trash"></i></button>
         </div>

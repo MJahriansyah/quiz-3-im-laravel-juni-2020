@@ -14,5 +14,6 @@ Route::get('/','HomeController@index');
 Route::get('/artikel','ArtikelController@index');
 Route::get('/artikel/create','ArtikelController@create');
 Route::get('/artikel/edit','ArtikelController@edit');
+Route::get('/artikel/detail','ArtikelController@detail');
 Route::get('/home','ArtikelController@home');
 // Route::get('/artikel/{id}','ArtikelController@detail');

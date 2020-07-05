@@ -16,4 +16,7 @@ class ArtikelController extends Controller
     Public function home(){
         return view('artikel.home');
     }
+    Public function detail(){
+        return view('artikel.detail');
+    }
 }
